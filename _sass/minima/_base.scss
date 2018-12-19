@@ -1,32 +1,49 @@
 /**
  * Reset some basic elements
  */
-body, h1, h2, h3, h4, h5, h6,
-p, blockquote, pre, hr,
-dl, dd, ol, ul, figure {
-  margin: 0;
-  padding: 0;
+// body, h1, h2, h3, h4, h5, h6,
+// p, blockquote, pre, hr,
+// dl, dd, ol, ul, figure {
+//   margin: 0;
+//   padding: 0;
 
-}
+// }
 
 
 
 /**
  * Basic styling
  */
+ * {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+html,
 body {
-  font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
+  margin: 0;
+  padding: 0;
+}
+
+$large-breakpoint: 38em;
+$large-font-size: 20px;
+
+html {
+  font-family: $base-font-family;
+  font-size: $base-font-size;
+  line-height: $base-line-height;
+
+  @media (min-width: $large-breakpoint) {
+    font-size: $large-font-size;
+  }
+}
+
+body {
   color: $text-color;
   background-color: $background-color;
   -webkit-text-size-adjust: 100%;
-  -webkit-font-feature-settings: "kern" 1;
-     -moz-font-feature-settings: "kern" 1;
-       -o-font-feature-settings: "kern" 1;
-          font-feature-settings: "kern" 1;
-  font-kerning: normal;
-  display: flex;
-  min-height: 100vh;
-  flex-direction: column;
+      -ms-text-size-adjust: 100%;
 }
 
 
@@ -34,9 +51,9 @@ body {
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
-h1, h2, h3, h4, h5, h6,
-p, blockquote, pre,
-ul, ol, dl, figure,
+// h1, h2, h3, h4, h5, h6,
+// p, blockquote, pre,
+// ul, ol, dl, figure,
 %vertical-rhythm {
   margin-bottom: $spacing-unit / 2;
 }
@@ -78,9 +95,9 @@ figcaption {
 /**
  * Lists
  */
-ul, ol {
-  margin-left: $spacing-unit;
-}
+// ul, ol {
+//   margin-left: $spacing-unit;
+// }
 
 li {
   > ul,
@@ -94,9 +111,9 @@ li {
 /**
  * Headings
  */
-h1, h2, h3, h4, h5, h6 {
-  font-weight: $base-font-weight;
-}
+// h1, h2, h3, h4, h5, h6 {
+//   font-weight: $base-font-weight;
+// }
 
 
 
