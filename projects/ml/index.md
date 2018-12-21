@@ -8,4 +8,4 @@ title: 머신러닝
 ## 특허 출원
 
 ### 사용자 맞춤형 게임화 요소 제공 장치 및 방법 (Device and method for providing personalized gamification component)
-![image](/assets/images/ml/특허출원.png)
+<!-- ![image](/assets/images/ml/특허출원.png) -->
