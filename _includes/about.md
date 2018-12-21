@@ -1,3 +1,6 @@
+
+# About Me
+
 ### 장명훈  
 소프트웨어 엔지니어, 연구 엔지니어  
 
@@ -39,4 +42,5 @@ NHN 게임 연구소 분사
 ---
 
 ## 특허
-사용자 맞춤형 게임화 요소 제공 장치 및 방법 (Device and method for providing personalized gamification component) 특허 출원, 공동 발명, 2017. 10    
+사용자 맞춤형 게임화 요소 제공 장치 및 방법 (Device and method for providing personalized gamification component) 특허 출원, 공동 발명, 2017. 10  
+

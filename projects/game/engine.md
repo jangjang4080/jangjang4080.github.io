@@ -16,6 +16,3 @@ title: 사내 게임 엔진 지원 (Game Engine Support)
 
 ### 티업 (T-Up)
 ![image](/assets/images/games/engine/6.png)
-
-### 애니메이션 툴 (Animation Tool)
-![image](/assets/images/games/engine/7.png)
