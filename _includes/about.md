@@ -2,7 +2,7 @@
 # About Me
 
 ### 장명훈  
-소프트웨어 엔지니어, 연구 엔지니어  
+소프트웨어 엔지니어(Software Engineer)  
 
 ![images](/assets/images/profile.jpg)
 
@@ -11,7 +11,7 @@
 ## 재직
 
 ### 캐치잇플레이(CatchItPlay, CIP)
-캐치잇잉글리시, TIPS 연구 : 머신러닝, 데이터, CTO  
+캐치잇잉글리시, TIPS 연구, 머신러닝, 데이터 엔지니어링, 추천 시스템, CTO  
 2016.4.1 ~  Present
 
 ### 엔엑스씨 (NXC)
