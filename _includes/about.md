@@ -2,7 +2,9 @@
 # About Me
 
 ### 장명훈  
-소프트웨어 엔지니어(Software Engineer)  
+**소프트웨어 엔지니어(Software Engineer)**  
+게임, 데이터 엔지니어링, 머신러닝과 관련된 일을 했습니다.   
+게임, 앱, 웹, 데이터, 머신러닝에 관심이 있습니다.  
 
 ![images](/assets/images/profile.jpg)
 
