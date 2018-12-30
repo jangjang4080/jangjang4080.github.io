@@ -2,11 +2,14 @@
 
 // Define defaults for each variable.
 
+// Google Fonts
+@import url(//fonts.googleapis.com/css?family=Roboto+Slab:400,700,300|Roboto:400,700,300|Open+Sans:300italic,400italic,600italic,700italic,800italic,400,800,700,600,300);
+
 $base-font-family: "Open Sans", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif; // $helvetica;
 $base-font-size:   16px !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
-$base-line-height: 1.5 !default;
+$base-line-height: 1.8 !default;
 
 $spacing-unit:     30px !default;
 
@@ -21,10 +24,10 @@ $orange-color:     #f66a0a !default;
 $table-text-align: left !default;
 
 // Width of the content area
-$content-width:    800px !default;
+$content-width:    860px !default;
 
 $on-palm:          600px !default;
-$on-laptop:        800px !default;
+$on-laptop:        860px !default;
 
 $on-medium:        $on-palm !default;
 $on-large:         $on-laptop !default;
@@ -51,6 +54,8 @@ $on-large:         $on-laptop !default;
 // Import partials.
 @import
   "minima/base",
+  "bourbon/bourbon",
+  "neat/neat",
   "minima/layout",
   "minima/syntax-highlighting",
   "minima/type"
