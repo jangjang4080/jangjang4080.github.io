@@ -27,9 +27,7 @@
 * 클러스터링 모델 기반의 추천 시스템(Model-based Recommender System)
 
 ### 크롤링
-* [셀레니움을 이용한 크롤러 - Instagram](/projects/crawling/instagram.html)
-* [셀레니움을 이용한 크롤러 - 5678tv](/projects/crawling/5678tv.html)
-* [셀레니움을 이용한 크롤러 - ITGo, ModenEdu](/projects/crawling/itgo.html)
+* [드라마, 강의, 인스타그램](/projects/crawling/index.html)
 
 ### 강의
 * [C# 스터디 with 유니티 (초급) - CBS(C# Beginner Study)](/projects/lectures/cbs.html)
