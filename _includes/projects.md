@@ -12,8 +12,8 @@
 * [역운동학(Inversed Kinematics)](/projects/game/ik.html)
 
 ### 웹
-* 가족 블로그 워드프레스
-* About Me 블로그 지킬
+* 워드프레스(WordPress)를 이용한 가족 블로그
+* 지킬(Jekyll) 테마 커스터마이징
 
 ### 앱
 
@@ -27,10 +27,10 @@
 * 클러스터링 모델 기반의 추천 시스템(Model-based Recommender System)
 
 ### 크롤링
-* [드라마, 강의, 인스타그램](/projects/crawling/index.html)
+* [드라마, 강의, 인스타그램 등](/projects/crawling/index.html)
 
 ### 강의
-* [C# 스터디 with 유니티 (초급) - CBS(C# Beginner Study)](/projects/lectures/cbs.html)
-* [유니티 초급 - 제주대 4학년 학생](/projects/lectures/unity-lex.html)
-* [이도 1동 청소년 문화원 - SPY 동아리 강의](/projects/lectures/spy.html)
-* [제주 서중 IT 직업인 진로 특강](/projects/lectures/제주서중.html)
+* [C# 언어와 유니티 초급 강의 - 성인](/projects/lectures/cbs.html)
+* [유니티 초급 강의 - 대학생](/projects/lectures/unity-lex.html)
+* [유니티 초급 강의 - 고등학생 동아리](/projects/lectures/spy.html)
+* [IT 직업인 진로 특강 - 중학생](/projects/lectures/제주서중.html)
