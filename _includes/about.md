@@ -51,13 +51,13 @@ NHN 게임 연구소 분사
 ---
 
 ## 논문
-[역운동학 모듈을 이용한 3D 애니메이션에 관한 연구(A Study on 3D Animation Using Inverse Kinematics Modules)](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE01616414) 공동 저자, 2005. 5  
+[역운동학 모듈을 이용한 3D 애니메이션에 관한 연구(A Study on 3D Animation Using Inverse Kinematics Modules)](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE01616414) 공동 저자, 2005.5  
 [역운동학(Inversed Kinematics) 프로젝트](/projects/game/ik.html)  
 
 ---
 
 ## 수상
-제 6회 성균관 대학교 게임공모전 대상 산업자원부 장관상 수상, 2005. 12  
+제 6회 성균관 대학교 게임공모전 대상 산업자원부 장관상 수상, 2005.12  
 [스매시 볼링 온라인(Smash Bowling Online) 프로젝트](/projects/game/smash_bowling.html)  
 
 ---

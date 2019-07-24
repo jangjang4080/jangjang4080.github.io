@@ -1,6 +1,6 @@
 
 ### 게임
-* 캐치잇 잉글리시(CatchItEnglish)
+* [캐치잇 잉글리시(CatchItEnglish)](/projects/game/cie.html)
 * [앨리스 퍼즐 게임](/projects/game/alice.html)
 * [유니티 엔진을 이용한 골프 뷰어](/projects/game/unity_golf.html)
 * [유니티 엔진을 이용한 콜 오브 카오스](/projects/game/unity_cc.html)
