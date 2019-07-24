@@ -3,6 +3,14 @@ layout: page
 title: 하둡 기반의 데이터 인프라 구축
 ---
 
+### 기술
+ClouderaManager, MongoDB, MongoDB Connector for Hadoop, spark, pySpark, AWS, Azure, Hyper-V  
+
+### 실행 환경
+Linux  
+
+---
+
 ## 하둡 머신 선정
 로컬 머신 또는 클라우드(AWS, Azure) 등  
 

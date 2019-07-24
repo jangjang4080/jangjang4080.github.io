@@ -5,6 +5,14 @@ title: 하둡 맵리듀스
 
 Hadoop MapReduce를 이용해 CIE DB 데이터를 가공합니다.  
 
+### 기술
+Java, Python, IntelliJ, Visual Studio Code
+
+### 실행 환경
+Linux  
+
+---
+
 ## 1. 전처리
 * MapReduce 시간을 줄이기 위해 분석을 위해 필요한 날짜 이전 db들 삭제
 

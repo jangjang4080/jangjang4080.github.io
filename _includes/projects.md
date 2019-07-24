@@ -18,6 +18,7 @@
 ### 앱
 
 ### 데이터 
+* [데이터 시각화 및 보고서 작성](/projects/data/data_visualization.html)
 * [하둡 기반의 데이터 인프라 구축](/projects/data/hadoop.html)
 * [하둡 맵리듀스](/projects/data/mapreduce.html)
 * AWS, Azure

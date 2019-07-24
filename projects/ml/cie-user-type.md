@@ -3,6 +3,14 @@ layout: page
 title: 머신러닝 (Machine Learning) 기반의 사용자 타입 분석
 ---
 
+### 기술
+Python, Jupyter Notebook    
+
+### 실행 환경
+Mac    
+
+---
+
 ## 사용자 타입 분석
 머신러닝 비지도학습의 대표적인 클러스터링을 이용하여 사용자 타입을 분석합니다.  
 
