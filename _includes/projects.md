@@ -18,8 +18,8 @@
 ### 앱
 
 ### 데이터 
-* 하둡 기반의 데이터 인프라 구축
-* 하둡 맵리듀스
+* [하둡 기반의 데이터 인프라 구축](/projects/data/hadoop.html)
+* [하둡 맵리듀스]((/projects/data/mapreduce.html))
 * AWS, Azure
 
 ### 머신러닝

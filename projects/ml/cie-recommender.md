@@ -9,4 +9,4 @@ title: 클러스터링 모델 기반의 추천 시스템(Model-based Recommender
 ---
 
 ## ROC 결과
-![image](/assets/images/games/ml/6.png)
+![image](/assets/images/ml/6.png)
