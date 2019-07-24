@@ -24,7 +24,7 @@
 
 ### 머신러닝
 * [머신러닝 (Machine Learning) 기반의 사용자 타입 분석](/projects/ml/cie-user-type.html)
-* [클러스터링 모델 기반의 추천 시스템(Model-based Recommender System)](/projects/ml/recommender.html)
+* [클러스터링 모델 기반의 추천 시스템(Model-based Recommender System)](/projects/ml/cie-recommender.html)
 
 ### 크롤링
 * [드라마, 강의, 인스타그램 등](/projects/crawling/index.html)
