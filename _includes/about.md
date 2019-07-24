@@ -16,7 +16,7 @@
 2019.5.1 ~ Present  
 자마린(Xamarin)을 이용한 닥터펫 앱 개발
 
-### 캐치잇플레이(CatchItPlay, CIP)
+### 캐치잇플레이(CatchItPlay)
 2016.4.1 ~  2019.4.30  
 NXC에서 독립 및 창업  
 CTO  
