@@ -8,7 +8,7 @@
 * [사내 애니메이션 툴(AnimationTool)](/projects/game/animation-tool.html)
 * [고페츠](/projects/game/gopets.html)
 * [스매시 볼링 온라인](/projects/game/smash_bowling.html)
-* [스매시 볼링 온라인 충돌 시뮬레이션과 카메라 툴](/projects/game/smash_bowling_tool.html)
+* [스매시 볼링 충돌 시뮬레이션과 카메라 툴](/projects/game/smash_bowling_tool.html)
 * [역운동학(Inversed Kinematics)](/projects/game/ik.html)
 
 ### 웹
