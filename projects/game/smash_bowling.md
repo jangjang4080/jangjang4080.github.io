@@ -12,8 +12,8 @@ title: 스매시 볼링 온라인(Smash Bowling Online)
 * 볼링공과 핀의 충돌 검출 및 반응을 위해 물리 엔진 제작  
 * 물리 시뮬레이션과 카메라 툴 제작
 
-### 기술
-DirectX 9, C++  
+### 개발 환경
+DirectX, C++, Visual Studio  
 
 ### 실행 환경
 Windows  

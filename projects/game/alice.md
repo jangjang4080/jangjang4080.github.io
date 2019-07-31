@@ -6,7 +6,7 @@ title: 앨리스 퍼즐 게임
 ### 담당 작업
 프로그래밍 전체  
 
-### 기술
+### 개발 환경
 cocos2d, Objective-C, XCode    
 
 ### 실행 환경

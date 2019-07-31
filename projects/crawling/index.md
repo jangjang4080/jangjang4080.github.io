@@ -5,8 +5,8 @@ title: 크롤링
 
 셀레니움을 사용하는 장점은 실제 사용자가 클릭하는 것과 구분하기 어려워 대부분의 사이트를 크롤링할 수 있다는 것입니다.  
 
-### 기술
-Python, Selenium, Chromium    
+### 개발 환경
+Python, Selenium, Chromium, VS Code  
 
 ### 실행 환경
 Windows, Mac  

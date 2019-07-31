@@ -5,7 +5,7 @@
 * [유니티 엔진을 이용한 골프 뷰어](/projects/game/unity_golf.html)
 * [유니티 엔진을 이용한 콜 오브 카오스](/projects/game/unity_cc.html)
 * [사내 게임 엔진 지원](/projects/game/engine.html)
-* [사내 애니메이션 툴(AnimationTool)](/projects/game/animation-tool.html)
+* [사내 캐릭터 툴](/projects/game/character_tool.html)
 * [고페츠](/projects/game/gopets.html)
 * [고페츠 월드 에디터](/projects/game/gopets_world_editor.html)
 * [스매시 볼링 온라인](/projects/game/smash_bowling.html)

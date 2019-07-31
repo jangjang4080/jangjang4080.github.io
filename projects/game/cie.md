@@ -7,8 +7,8 @@ title: 캐치잇 잉글리시(CatchItEnglish)
 * 게임 플레이 프로그래밍
 * 서버와의 통신 처리
 
-### 기술
-C#, Unity, Android Studio, XCode  
+### 개발 환경
+C#, Unity, Android Studio, XCode, Visual Studio     
 
 ### 실행 환경
 Android, iOS  

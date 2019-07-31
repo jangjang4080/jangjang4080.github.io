@@ -7,8 +7,8 @@ title: 사내 게임 엔진 지원 (Game Engine Support)
 * 사내 게임 엔진 지원  
 * 툴 제작
 
-### 기술
-C++, 3DMax, Blender    
+### 개발 환경
+C++, 3DMax, Blender, Visual Studio  
 
 ### 실행 환경
 Windows  

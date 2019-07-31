@@ -3,8 +3,8 @@ layout: page
 title: 클러스터링 모델 기반의 추천 시스템(Model-based Recommender System)
 ---
 
-### 기술
-Python, Jupyter Notebook    
+### 개발 환경
+Python, Jupyter Notebook  
 
 ### 실행 환경
 Mac    

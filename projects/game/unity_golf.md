@@ -1,13 +1,13 @@
 ---
 layout: page
-title: 유니티 엔진을 이용한 골프 뷰어
+title: 사내 엔진과 유니티 엔진 연동 R&D (골프 뷰어)
 ---
 
-### 기술
-C++, 3DMax, Blender, C#, Unity  
+### 개발 환경
+C++, 3DMax, Blender, C#, Unity, Visual Studio  
 
 ### 실행 환경
-Web, iOS      
+Web, iOS  
 
 ---
 

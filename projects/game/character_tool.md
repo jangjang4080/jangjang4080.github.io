@@ -1,10 +1,10 @@
 ---
 layout: page
-title: 애니메이션 툴 (Animation Tool)
+title: 캐릭터 툴
 ---
 
-### 기술
-WxWidget    
+### 개발 환경
+C++, DirectX, WxWidget  
 
 ### 실행 환경
 Windows, Mac  
