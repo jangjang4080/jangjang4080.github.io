@@ -21,6 +21,7 @@
 NXC에서 독립 및 창업  
 CTO  
 
+#### 업무
 * 캐치잇잉글리시 게임앱 개발  
 * TIPS(Tech Incubator Program for startup Korea) 과제 연구  
   * 사용자 행동 데이터 가공, 데이터 엔지니어링, 데이터 시각화 R&D  
