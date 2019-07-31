@@ -6,10 +6,9 @@ title: 고페츠 (Gopets)
 ### 담당 작업
 * 게임 플레이 프로그래밍
 * 서버와의 통신 처리
-* 툴 제작  
 
 ### 기술
-C++, 3DMax      
+C++, DirectX 9, Visual Studio, 3DMax  
 
 ### 실행 환경
 Windows  
@@ -26,6 +25,3 @@ Windows
 ## MSN 채팅을 통해 실행
 ![image](/assets/images/games/gopets/5.jpg)
 ![image](/assets/images/games/gopets/6.jpg)
-
-## 월드 에디터 툴
-![image](/assets/images/games/gopets/7.png)
