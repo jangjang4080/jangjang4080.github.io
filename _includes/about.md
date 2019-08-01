@@ -74,3 +74,4 @@ NHN 게임 연구소 분사
 ## 논문
 [역운동학 모듈을 이용한 3D 애니메이션에 관한 연구(A Study on 3D Animation Using Inverse Kinematics Modules)](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE01616414) 공동 저자, 2005.5  
 [역운동학(Inversed Kinematics) 프로젝트](/projects/game/ik.html)  
+
