@@ -4,6 +4,7 @@
 * [앨리스 퍼즐 게임](/projects/game/alice.html)
 * [유니티 엔진을 이용한 골프 뷰어](/projects/game/unity_golf.html)
 * [유니티 엔진을 이용한 콜 오브 카오스](/projects/game/unity_cc.html)
+* [맥스 스크립트, 블렌더 스크립트 등을 이용해 골프 코스 위성 데이터 리소스 전처리 프로세스 개발](/projects/game/max_heightmap.html)
 * [사내 게임 엔진 지원](/projects/game/engine.html)
 * [사내 캐릭터 툴](/projects/game/character_tool.html)
 * [고페츠](/projects/game/gopets.html)
