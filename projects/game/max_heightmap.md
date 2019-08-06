@@ -21,19 +21,19 @@ Windows
 
 ## 프로젝트 설명
 1. GIP(Golf Image Processor)
-* do_thumbnail(target_directory): - 지정된 디렉토리 하위 이미지 파일들을 일정 이하 사이즈로 줄여준다.
-* merge_select(target_directory, dest_directory, fileNames, thumb=False, channel16=False): - 이미지 파일들을 하나의 이미지로 합해준다.
+    * do_thumbnail(target_directory): - 지정된 디렉토리 하위 이미지 파일들을 일정 이하 사이즈로 줄여준다.
+    * merge_select(target_directory, dest_directory, fileNames, thumb=False, channel16=False): - 이미지 파일들을 하나의 이미지로 합해준다.
 2. GMP(Golf Mesh Preprocessor)
-* SCENE_GIP
-    * run_gip(self, context): - thumbnail, merge 하는 작업을 수행한다.
-    * run_ImageMagick_convert: - 16비트 이미지를 8비트로 만들어준다.
-        * 사용하는 이유 : 블렌더에서 매핑에 16비트 이미지를 지원하지 않기 때문에
-* SCENE_AddHoleInfo
-    * Invoke(self, context, event): - Add Hole Info 라는 버튼을 누르면 발생한다. 편집한 홀들의 정보를 저장해둔다.(메모리)
-* SCENE_EditHoleInfo
-    * Invoke(self, context, event): - 왼쪽에 hole no 번호를 조정한 후 Edit 버튼을 누르면 발생한다. hole no 에 따라 이전에 편집한 홀들의 정보를 불러온다.
-* SCENE_Export – 홀 정보들을 파일로 출력한다. Ini 포멧 파일을 생성.
-* SCENE_GenerateCC – 파일 이름을 기반으로 row, clo을 파악해 블렌더 메시를 생성한다.
+    * SCENE_GIP
+        * run_gip(self, context): - thumbnail, merge 하는 작업을 수행한다.
+        * run_ImageMagick_convert: - 16비트 이미지를 8비트로 만들어준다.
+            * 사용하는 이유 : 블렌더에서 매핑에 16비트 이미지를 지원하지 않기 때문에
+    * SCENE_AddHoleInfo
+        * Invoke(self, context, event): - Add Hole Info 라는 버튼을 누르면 발생한다. 편집한 홀들의 정보를 저장해둔다.(메모리)
+    * SCENE_EditHoleInfo
+        * Invoke(self, context, event): - 왼쪽에 hole no 번호를 조정한 후 Edit 버튼을 누르면 발생한다. hole no 에 따라 이전에 편집한 홀들의 정보를 불러온다.
+    * SCENE_Export – 홀 정보들을 파일로 출력한다. Ini 포멧 파일을 생성.
+    * SCENE_GenerateCC – 파일 이름을 기반으로 row, clo을 파악해 블렌더 메시를 생성한다.
 
 ---
 
