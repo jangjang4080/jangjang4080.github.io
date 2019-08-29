@@ -5,5 +5,8 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', '{{ site.google_analytics }}');
+  gtag('config', '{{ site.google_analytics }}', {
+    'page_title' : '{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}',
+    'page_location': '{{ page.url }}'
+  });
 </script>
