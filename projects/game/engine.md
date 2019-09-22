@@ -3,15 +3,15 @@ layout: page
 title: 사내 게임 엔진 지원 (Game Engine Support)
 ---
 
-### 담당 작업
-* 사내 게임 엔진 지원  
-* 툴 제작
-
 ### 개발 환경
 C++, 3DMax, Visual Studio  
 
 ### 실행 환경
 Windows  
+
+### 담당 작업
+* 사내 게임 엔진 지원  
+* 툴 제작
 
 ---
 

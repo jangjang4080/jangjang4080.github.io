@@ -14,11 +14,8 @@
 * [스매시 볼링 충돌 시뮬레이션과 카메라 툴](/projects/game/smash_bowling_tool.html)
 * [역운동학(Inversed Kinematics)](/projects/game/ik.html)
 
-### 웹
-* 워드프레스(WordPress)를 이용한 가족 블로그
-* 지킬(Jekyll) 테마 커스터마이징
-
 ### 앱
+* [닥터펫 - 동물병원 찾을 땐 닥터펫, 리얼리뷰 플랫폼](/projects/app/drpet.html)
 
 ### 데이터 
 * [데이터 시각화 및 보고서 작성](/projects/data/data-visualization.html)
@@ -32,6 +29,10 @@
 
 ### 크롤링
 * [인스타그램, 비디오, 스트리밍 비디오 등 크롤링](/projects/crawling/index.html)
+
+### 웹
+* 워드프레스(WordPress)를 이용한 가족 블로그
+* 지킬(Jekyll) 테마 커스터마이징
 
 ### 강의
 * [C# 언어와 유니티 초급 강의 - 성인](/projects/lectures/cbs.html)

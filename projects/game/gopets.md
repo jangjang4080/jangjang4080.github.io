@@ -3,19 +3,19 @@ layout: page
 title: 고페츠 (Gopets)
 ---
 
-### 담당 작업
-* 게임 플레이 프로그래밍
-* 서버와의 통신 처리
-
 ### 개발 환경
 C++, DirectX, Visual Studio, 3DMax  
 
 ### 실행 환경
 Windows  
 
+### 담당 작업
+* 게임 플레이 프로그래밍
+* 서버와의 통신 처리
+
 ---
 
-## 게임 화면
+## 실행 화면
 ![image](/assets/images/games/gopets/1.png)
 ![image](/assets/images/games/gopets/2.png)
 ![image](/assets/images/games/gopets/3.png)
