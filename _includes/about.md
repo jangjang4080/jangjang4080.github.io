@@ -60,7 +60,7 @@ NHN 게임 연구소 분사
 ---
 
 ## 특허
-사용자 맞춤형 게임화 요소 제공 장치 및 방법 (Device and method for providing personalized gamification component) 특허 등록, 공동 발명, 2019.06.28    
+사용자 맞춤형 게임화 요소 제공 장치 및 방법 (Device and method for providing personalized gamification component) 특허 등록, 공동 발명, 2019.06.28    
 [https://doi.org/10.8080/1020170140018](https://doi.org/10.8080/1020170140018)  
 
 ---
