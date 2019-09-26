@@ -23,5 +23,3 @@ Android, iOS
 ![image](/assets/images/app/drpet/2.png)
 ![image](/assets/images/app/drpet/3.png)
 ![image](/assets/images/app/drpet/4.png)
-![image](/assets/images/app/drpet/5.png)
-![image](/assets/images/app/drpet/6.png)
