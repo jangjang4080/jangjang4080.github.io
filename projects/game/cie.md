@@ -27,9 +27,10 @@ Android, iOS
 * [앱 소개](https://www.youtube.com/watch?v=z2AP5nprDWM)
 
 ## 실행 화면
-![image](/assets/images/games/cie/1.png)
-![image](/assets/images/games/cie/2.png)
-![image](/assets/images/games/cie/3.png)
-![image](/assets/images/games/cie/4.png)
-![image](/assets/images/games/cie/5.png)
-![image](/assets/images/games/cie/6.png)
+<img src='{{ "/assets/images/games/cie/1.png" | relative_url }}' alt='relative' width="30%">
+<img src='{{ "/assets/images/games/cie/2.png" | relative_url }}' alt='relative' width="30%">
+<img src='{{ "/assets/images/games/cie/3.png" | relative_url }}' alt='relative' width="30%">
+
+<img src='{{ "/assets/images/games/cie/4.png" | relative_url }}' alt='relative' width="30%">
+<img src='{{ "/assets/images/games/cie/5.png" | relative_url }}' alt='relative' width="30%">
+<img src='{{ "/assets/images/games/cie/6.png" | relative_url }}' alt='relative' width="30%">
