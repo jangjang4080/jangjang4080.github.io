@@ -11,6 +11,10 @@ C#, Xamarin, Visual Studio
 ### 실행 환경
 Android, iOS  
 
+### 담당 작업
+* Android 앱 개발 메인 작업
+* iOS 앱 개발 메인 작업
+
 ---
 
 ## 홈페이지

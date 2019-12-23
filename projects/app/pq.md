@@ -11,6 +11,9 @@ Objective-C, XCode
 ### 실행 환경
 Android, iOS  
 
+### 담당 작업
+* iOS 앱 개발 전체 작업
+
 ---
 
 ## 스토어
