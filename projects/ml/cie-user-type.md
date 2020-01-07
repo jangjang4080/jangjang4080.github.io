@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 머신러닝 (Machine Learning) 기반의 사용자 타입 분석
+title: 머신러닝(Machine Learning) 기반의 사용자 타입 분석
 ---
 
 ### 개발 환경

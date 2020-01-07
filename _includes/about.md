@@ -12,18 +12,25 @@
 
 ## 경력
 
+### 프리랜서
 {% include free.md %}
 
+### 캐치잇플레이(CatchItPlay)
 {% include cip.md %}
 
+### 엔엑스씨(NXC)
+{% include nxc.md %}
+
+### 엔플루토(NPLUTO)
 {% include npluto.md %}
 
+### 고페츠(Gopets)
 {% include gopets.md %}
 
 ---
 
 ## 특허
-사용자 맞춤형 게임화 요소 제공 장치 및 방법 (Device and method for providing personalized gamification component) 특허 등록, 공동 발명, 2019.06.28    
+사용자 맞춤형 게임화 요소 제공 장치 및 방법(Device and method for providing personalized gamification component) 특허 등록, 공동 발명, 2019.06.28    
 [https://doi.org/10.8080/1020170140018](https://doi.org/10.8080/1020170140018)  
 
 ---

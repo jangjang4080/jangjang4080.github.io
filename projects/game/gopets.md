@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 고페츠 (Gopets)
+title: 고페츠(Gopets)
 ---
 
 ### 개발 환경
