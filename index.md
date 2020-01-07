@@ -8,10 +8,10 @@
 layout: home
 ---
 
-{%- include about.md -%}  
+{% include about.md %}  
 
 ---
 
-## Projects
+## 프로젝트
 
-{%- include projects.md -%}
+{% include projects.md %}

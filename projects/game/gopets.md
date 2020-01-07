@@ -25,3 +25,7 @@ Windows
 ## 마이크로소프트 MSN 메신저를 통해 실행
 ![image](/assets/images/games/gopets/5.jpg)
 ![image](/assets/images/games/gopets/6.jpg)
+
+## 보도 자료
+* [PC안에 애완동물을 키워보자(고페츠)](https://www.gamemeca.com/view.php?gid=121339)
+* [고페츠 애완동물 시점보기 영상 머드포유](https://www.youtube.com/watch?v=-ExBa5yC1PI)
