@@ -3,6 +3,8 @@ layout: page
 title: 캐치잇 잉글리시(CatchItEnglish)
 ---
 
+<img src='{{ "/assets/images/games/cie/icon.png" | relative_url }}' alt='relative' width="15%" height="15%">
+
 ### 개발 환경
 C#, Unity, Android Studio, XCode, Visual Studio     
 
