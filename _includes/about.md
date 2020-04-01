@@ -12,7 +12,7 @@
 
 ## 경력
 
-### 프리랜서
+### 데브라이더(DevRider)
 {% include free.md %}
 
 ### 캐치잇플레이(CatchItPlay)
