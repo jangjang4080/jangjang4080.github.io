@@ -2,8 +2,10 @@
 ### 앱
 * [닥터펫 - 동물병원 찾을 땐 닥터펫, 리얼리뷰 플랫폼](/projects/app/drpet.html)
 * [PQ - 데이팅 앱](/projects/app/pq.html)
+* [청담스마트매니저](/projects/app/smartmanager.html)
 
 ### 게임
+* [오니기리 술게임](/projects/game/onigiri.html)
 * [캐치잇 잉글리시(CatchItEnglish)](/projects/game/cie.html)
 * [앨리스 퍼즐 게임](/projects/game/alice.html)
 * [사내 게임 프로젝트들의 엔진 사용 지원](/projects/game/engine.html)

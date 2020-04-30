@@ -13,7 +13,7 @@
 ## 경력
 
 ### 데브라이더(DevRider)
-{% include free.md %}
+{% include devrider.md %}
 
 ### 캐치잇플레이(CatchItPlay)
 {% include cip.md %}
