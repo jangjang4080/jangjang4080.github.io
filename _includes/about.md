@@ -12,6 +12,9 @@
 
 ## 경력
 
+### 투와이(TwoWhy)
+{% include twowhy.md %}
+
 ### 데브라이더(DevRider)
 {% include devrider.md %}
 
