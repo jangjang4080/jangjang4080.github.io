@@ -1,4 +1,4 @@
-2019.5 ~ Present
+2019.5 ~ 2021.1
 
 #### 프로젝트
 * [청담스마트매니저](/projects/app/smartmanager.html)
