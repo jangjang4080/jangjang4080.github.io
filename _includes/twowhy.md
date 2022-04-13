@@ -2,4 +2,4 @@
 [홈페이지](https://twowhy.com)  
 
 #### 프로젝트
-* 인버즈
+* [인버즈](https://play.google.com/store/apps/details?id=com.twowhy.inbuzz&hl=ko&gl=US)  
