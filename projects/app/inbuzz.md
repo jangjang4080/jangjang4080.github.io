@@ -24,7 +24,7 @@ Android
 [https://www.inbuzz.io/](https://www.inbuzz.io/)  
 
 ## 스토어
-* [구글 플레이 스토어](https://play.google.com/store/apps/details?id=com.oreore.drpet)
+* [구글 플레이 스토어](https://play.google.com/store/apps/details?id=com.twowhy.inbuzz)
 
 ## 영상
 * [유튜브 채널](https://www.youtube.com/channel/UCeLNWlj8xMmgV435yJSAT4w)  
