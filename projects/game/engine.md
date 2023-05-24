@@ -3,7 +3,7 @@ layout: page
 title: 사내 게임 엔진 지원(Game Engine Support)
 ---
 
-### 개발 환경
+### 기술 스택
 C++, 3DMax, Visual Studio  
 
 ### 실행 환경

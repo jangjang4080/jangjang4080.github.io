@@ -3,7 +3,7 @@ layout: page
 title: 머신러닝(Machine Learning) 기반의 사용자 타입 분석
 ---
 
-### 개발 환경
+### 기술 스택
 Python, Jupyter Notebook  
 
 ### 실행 환경

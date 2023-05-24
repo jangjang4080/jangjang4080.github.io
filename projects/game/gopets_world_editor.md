@@ -3,7 +3,7 @@ layout: page
 title: 고페츠 월드 에디터
 ---
 
-### 개발 환경
+### 기술 스택
 Python, boost_python, wxpython, DirectX, C++, 3DMax, Visual Studio  
 
 ### 실행 환경

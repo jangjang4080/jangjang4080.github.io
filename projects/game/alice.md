@@ -3,7 +3,7 @@ layout: page
 title: 앨리스 퍼즐 게임
 ---
 
-### 개발 환경
+### 기술 스택
 cocos2d, Objective-C, XCode    
 
 ### 실행 환경

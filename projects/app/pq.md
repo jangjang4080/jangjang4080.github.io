@@ -5,14 +5,14 @@ title: PQ - 데이팅 앱
 
 <img src='{{ "/assets/images/app/pq/icon.png" | relative_url }}' alt='relative' width="15%" height="15%">
 
-### 개발 환경
-Objective-C, XCode  
+### 기술 스택
+Objective-C
 
 ### 실행 환경
 Android, iOS  
 
 ### 담당 작업
-* iOS 앱 개발 전체 작업
+* iOS 앱 개발
 
 ---
 

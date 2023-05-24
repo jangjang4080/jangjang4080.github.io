@@ -5,15 +5,18 @@ title: 닥터펫 - 동물병원 찾을 땐 닥터펫, 리얼리뷰 플랫폼
 
 <img src='{{ "/assets/images/app/drpet/icon.png" | relative_url }}' alt='relative' width="15%" height="15%">
 
-### 개발 환경
-C#, Xamarin, Visual Studio     
+믿을 수 있는 동물병원 찾을 땐, 닥터펫  
+반려인들의 생생한 후기로 과잉진료 없는 내 주변 동물병원을 확인할 수 있어요!  
+
+### 기술 스택
+C#, Xamarin
 
 ### 실행 환경
 Android, iOS  
 
 ### 담당 작업
-* Android 앱 개발 메인 작업
-* iOS 앱 개발 메인 작업
+* Android 앱 개발
+* iOS 앱 개발
 
 ---
 
@@ -30,12 +33,4 @@ Android, iOS
 
 <img src='{{ "/assets/images/app/drpet/3.jpg" | relative_url }}' alt='relative' width="40%">
 <img src='{{ "/assets/images/app/drpet/4.jpg" | relative_url }}' alt='relative' width="40%">
-
-<!-- ![image](/assets/images/app/drpet/1.png)
-
-![image](/assets/images/app/drpet/2.png)
-
-![image](/assets/images/app/drpet/3.png)
-
-![image](/assets/images/app/drpet/4.png) -->
 

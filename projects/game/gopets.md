@@ -3,7 +3,7 @@ layout: page
 title: 고페츠(Gopets)
 ---
 
-### 개발 환경
+### 기술 스택
 C++, DirectX, Visual Studio, 3DMax  
 
 ### 실행 환경

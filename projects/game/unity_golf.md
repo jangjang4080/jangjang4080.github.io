@@ -3,7 +3,7 @@ layout: page
 title: 사내 엔진과 유니티 엔진 연동 R&D(골프 뷰어)
 ---
 
-### 개발 환경
+### 기술 스택
 C++, 3DMax, Blender, C#, Unity, Visual Studio  
 
 ### 실행 환경

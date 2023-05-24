@@ -3,7 +3,7 @@ layout: page
 title: 캐릭터 툴
 ---
 
-### 개발 환경
+### 기술 스택
 C++, DirectX, WxWidget  
 
 ### 실행 환경
