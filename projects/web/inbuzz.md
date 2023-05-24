@@ -26,6 +26,6 @@ Android
 * [유튜브 채널](https://www.youtube.com/channel/UCeLNWlj8xMmgV435yJSAT4w)  
 
 ## 실행 화면
-<img src='{{ "/assets/images/app/inbuzz_web/1.jpg" | relative_url }}' alt='relative' width="70%">
+<img src='{{ "/assets/images/web/inbuzz/1.jpg" | relative_url }}' alt='relative' width="70%">
 
-<img src='{{ "/assets/images/app/inbuzz_web/2.jpg" | relative_url }}' alt='relative' width="70%">
+<img src='{{ "/assets/images/web/inbuzz/2.jpg" | relative_url }}' alt='relative' width="70%">
