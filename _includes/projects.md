@@ -1,9 +1,13 @@
 
 ### 앱
+* [인버즈 - 인테리어 자재/시공 B2B 솔루션](/projects/app/inbuzz.html)  
 * [닥터펫 - 동물병원 찾을 땐 닥터펫, 리얼리뷰 플랫폼 앱 개발](/projects/app/drpet.html)
 * [즐링 - 즐링은 인공지능 (AI) 기반의 모바일 모션인식 댄스 게임](/projects/app/zling.html)
 * [청담스마트매니저 - 스마트매니저는 AR스티커, 필터 및 프레임 기능](/projects/app/smartmanager.html)
 * [PQ - 데이팅 앱](/projects/app/pq.html)
+
+### 웹
+* [인버즈 짠견적 - 혁신적인 인테리어 솔루션](/projects/web/inbuzz.html)  
 
 ### 게임
 * [캐치잇 잉글리시(CatchItEnglish)](/projects/game/cie.html)
@@ -34,10 +38,6 @@
 
 ### 크롤링
 * [인스타그램, 비디오, 스트리밍 비디오 등 크롤링](/projects/crawling/index.html)
-
-### 웹
-* 워드프레스(WordPress)를 이용한 가족 블로그
-* 지킬(Jekyll) 테마 커스터마이징
 
 ### 강의
 * [C# 언어와 유니티 초급 강의 - 성인](/projects/lectures/cbs.html)

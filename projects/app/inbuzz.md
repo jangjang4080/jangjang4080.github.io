@@ -21,7 +21,7 @@ Android
 ---
 
 ## 홈페이지
-[https://www.inbuzz.io/](https://www.inbuzz.io/)  
+[https://inbuzz.io](https://inbuzz.io)  
 
 ## 스토어
 * [구글 플레이 스토어](https://play.google.com/store/apps/details?id=com.twowhy.inbuzz)
