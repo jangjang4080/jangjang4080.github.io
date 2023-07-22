@@ -3,7 +3,7 @@
 
 ### 장명훈  
 **소프트웨어 개발자(Software Developer)**  
-웹, 앱, 게임, 데이터 엔지니어링, 머신러닝과 관련된 일을 했습니다.   
+앱, 웹, 게임, 데이터 엔지니어링, 머신러닝과 관련된 일을 했습니다.   
 
 <img src='{{ "/assets/images/profile.png" | relative_url }}' alt='relative' width="25%">
 
