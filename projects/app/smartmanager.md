@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 청담스마트매니저
+title: 청담스마트매니저 - AR스티커, 필터 및 프레임 기능
 ---
 
 <img src='{{ "/assets/images/app/smartmanager/icon.png" | relative_url }}' alt='relative' width="15%" height="15%">  

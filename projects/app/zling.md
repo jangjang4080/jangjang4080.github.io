@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 즐링 - 동물병원 찾을 땐 닥터펫, 리얼리뷰 플랫폼
+title: 즐링 - 인공지능 (AI) 기반의 모바일 모션인식 댄스 게임
 ---
 
 <img src='{{ "/assets/images/app/zling/icon.png" | relative_url }}' alt='relative' width="15%" height="15%">
