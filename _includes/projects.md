@@ -10,7 +10,7 @@
 * [인버즈 짠견적 - 혁신적인 인테리어 솔루션](/projects/web/inbuzz.html)  
 
 ### 게임
-* [캐치잇 잉글리시(CatchItEnglish)](/projects/game/cie.html)
+* [캐치잇 잉글리시 - 영단어, 영어회화, 스피킹 한 번에](/projects/game/cie.html)
 * [앨리스 퍼즐 게임](/projects/game/alice.html)
 * [사내 게임 프로젝트들의 엔진 사용 지원](/projects/game/engine.html)
 * [사내 캐릭터 툴](/projects/game/character_tool.html)

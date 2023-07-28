@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 캐치잇 잉글리시(CatchItEnglish)
+title: 캐치잇 잉글리시 - 영단어, 영어회화, 스피킹 한 번에
 ---
 
 <img src='{{ "/assets/images/games/cie/icon.png" | relative_url }}' alt='relative' width="15%" height="15%">

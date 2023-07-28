@@ -3,5 +3,5 @@
 프로그램 팀장  
 
 #### 업무 
-* [고페츠 게임 개발](/projects/game/gopets.html)
-* [고페츠 게임 월드 에디터 개발](/projects/game/gopets_world_editor.html)
+* [고페츠 게임](/projects/game/gopets.html)
+* [고페츠 게임 월드 에디터](/projects/game/gopets_world_editor.html)
