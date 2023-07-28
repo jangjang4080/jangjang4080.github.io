@@ -29,10 +29,12 @@ Android, iOS
 * [앱 소개](https://www.youtube.com/watch?v=z2AP5nprDWM)
 
 ## 실행 화면
-<img src='{{ "/assets/images/games/cie/1.png" | relative_url }}' alt='relative' width="30%">
-<img src='{{ "/assets/images/games/cie/2.png" | relative_url }}' alt='relative' width="30%">
-<img src='{{ "/assets/images/games/cie/3.png" | relative_url }}' alt='relative' width="30%">
+<img src='{{ "/assets/images/games/cie/1.jpg" | relative_url }}' alt='relative' width="30%">
+<img src='{{ "/assets/images/games/cie/2.jpg" | relative_url }}' alt='relative' width="30%">
+<img src='{{ "/assets/images/games/cie/3.jpg" | relative_url }}' alt='relative' width="30%">
 
-<img src='{{ "/assets/images/games/cie/4.png" | relative_url }}' alt='relative' width="30%">
-<img src='{{ "/assets/images/games/cie/5.png" | relative_url }}' alt='relative' width="30%">
-<img src='{{ "/assets/images/games/cie/6.png" | relative_url }}' alt='relative' width="30%">
+<img src='{{ "/assets/images/games/cie/4.jpg" | relative_url }}' alt='relative' width="30%">
+<img src='{{ "/assets/images/games/cie/5.jpg" | relative_url }}' alt='relative' width="30%">
+<img src='{{ "/assets/images/games/cie/6.jpg" | relative_url }}' alt='relative' width="30%">
+
+<img src='{{ "/assets/images/games/cie/7.jpg" | relative_url }}' alt='relative' width="30%">
