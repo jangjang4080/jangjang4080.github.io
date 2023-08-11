@@ -1,12 +1,9 @@
-<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PM6WNW81P6"></script>
 <script>
-  window['ga-disable-{{ site.google_analytics }}'] = window.doNotTrack === "1" || navigator.doNotTrack === "1" || navigator.doNotTrack === "yes" || navigator.msDoNotTrack === "1";
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', '{{ site.google_analytics }}', {
-    'page_title' : '{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}',
-    'page_location': '{{ page.url }}'
-  });
+  gtag('config', 'G-PM6WNW81P6');
 </script>
