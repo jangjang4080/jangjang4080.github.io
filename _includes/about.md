@@ -10,6 +10,8 @@
 ---
 
 ## 경력
+### 잼잼테라퓨틱스(Gemgem Therapeutics)
+{% include gemgem.md %}
 
 ### 투와이(TwoWhy)
 {% include twowhy.md %}
