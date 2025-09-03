@@ -10,6 +10,9 @@
 ---
 
 ## 경력
+### 베베다(Bebeda)
+{% include bebeda.md %}
+
 ### 잼잼테라퓨틱스(Gemgem Therapeutics)
 {% include gemgem.md %}
 
