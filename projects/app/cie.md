@@ -3,7 +3,7 @@ layout: page
 title: 캐치잇 잉글리시 - 영단어, 영어회화, 스피킹 한 번에
 ---
 
-<img src='{{ "/assets/images/games/cie/icon.png" | relative_url }}' alt='relative' width="15%" height="15%">
+<img src='{{ "/assets/images/app/cie/icon.png" | relative_url }}' alt='relative' width="15%" height="15%">
 
 ### 기술 스택
 C#, Unity, Android Studio, XCode, Visual Studio     
@@ -29,12 +29,12 @@ Android, iOS
 * [앱 소개](https://www.youtube.com/watch?v=z2AP5nprDWM)
 
 ## 실행 화면
-<img src='{{ "/assets/images/games/cie/1.jpg" | relative_url }}' alt='relative' width="30%">
-<img src='{{ "/assets/images/games/cie/2.jpg" | relative_url }}' alt='relative' width="30%">
-<img src='{{ "/assets/images/games/cie/3.jpg" | relative_url }}' alt='relative' width="30%">
+<img src='{{ "/assets/images/app/cie/1.jpg" | relative_url }}' alt='relative' width="30%">
+<img src='{{ "/assets/images/app/cie/2.jpg" | relative_url }}' alt='relative' width="30%">
+<img src='{{ "/assets/images/app/cie/3.jpg" | relative_url }}' alt='relative' width="30%">
 
-<img src='{{ "/assets/images/games/cie/4.jpg" | relative_url }}' alt='relative' width="30%">
-<img src='{{ "/assets/images/games/cie/5.jpg" | relative_url }}' alt='relative' width="30%">
-<img src='{{ "/assets/images/games/cie/6.jpg" | relative_url }}' alt='relative' width="30%">
+<img src='{{ "/assets/images/app/cie/4.jpg" | relative_url }}' alt='relative' width="30%">
+<img src='{{ "/assets/images/app/cie/5.jpg" | relative_url }}' alt='relative' width="30%">
+<img src='{{ "/assets/images/app/cie/6.jpg" | relative_url }}' alt='relative' width="30%">
 
-<img src='{{ "/assets/images/games/cie/7.jpg" | relative_url }}' alt='relative' width="30%">
+<img src='{{ "/assets/images/app/cie/7.jpg" | relative_url }}' alt='relative' width="30%">

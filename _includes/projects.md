@@ -1,19 +1,19 @@
+### 웹
+* [Korean Mate - Learning Korean with Stories](/projects/web/koreanmate.html)
+* [인버즈 짠견적 - 혁신적인 인테리어 솔루션](/projects/web/inbuzz.html)  
 
 ### 앱
+* [잼잼400 - 집에서 즐기는 재활운동 게임](/projects/app/gemgem400.html)
 * [서울대병원 - 공황장애의 극복](/projects/app/dtx.html)
 * [반디 - 한국어 배우기](/projects/app/bandy.html)
-* 잼잼400 - 소근육 재활 치료!
 * [인버즈 - 인테리어 자재/시공 B2B 솔루션](/projects/app/inbuzz.html)  
 * [닥터펫 - 동물병원 찾을 땐 닥터펫, 리얼리뷰 플랫폼](/projects/app/drpet.html)
 * [즐링 - 인공지능 (AI) 기반의 모바일 모션인식 댄스 게임](/projects/app/zling.html)
 * [청담스마트매니저 - AR스티커, 필터 및 프레임 기능](/projects/app/smartmanager.html)
 * [PQ - 데이팅 앱](/projects/app/pq.html)
-
-### 웹
-* [인버즈 짠견적 - 혁신적인 인테리어 솔루션](/projects/web/inbuzz.html)  
+* [캐치잇 잉글리시 - 영단어, 영어회화, 스피킹 한 번에](/projects/app/cie.html)
 
 ### 게임
-* [캐치잇 잉글리시 - 영단어, 영어회화, 스피킹 한 번에](/projects/game/cie.html)
 * [앨리스 퍼즐 게임](/projects/game/alice.html)
 * [사내 게임 프로젝트들의 엔진 사용 지원](/projects/game/engine.html)
 * [사내 캐릭터 툴](/projects/game/character_tool.html)
