@@ -18,6 +18,11 @@ Android, iOS
 
 ---
 
+## 서비스 소개
+<div style="display: flex; gap: 2%;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ca6C2YX0tEw" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## 홈페이지
 [https://zling.kr/](https://zling.kr/)
 

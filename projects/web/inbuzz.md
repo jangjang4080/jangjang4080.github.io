@@ -19,13 +19,26 @@ Android
 
 ---
 
+## 서비스 소개
+<div style="display: flex; gap: 2%;">
+<iframe width="49%" height="250" src="https://www.youtube.com/embed/sZLjn-lM820?list=PLK4uXsm1p7XSNPoz8j3i_VXh1X0yb3KwZ" frameborder="0" allowfullscreen></iframe>
+<iframe width="49%" height="250" src="https://www.youtube.com/embed/VGSY2MADwRQ?list=PLK4uXsm1p7XTFU85diHXKrb_y3awVaccC" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## 웹페이지
 [https://www.inbuzz.io/](https://www.inbuzz.io/)  
 
-## 영상
-* [유튜브 채널](https://www.youtube.com/channel/UCeLNWlj8xMmgV435yJSAT4w)  
-
 ## 실행 화면
-<img src='{{ "/assets/images/web/inbuzz/1.jpg" | relative_url }}' alt='relative' width="70%">
+### 데스크톱
+<img src='{{ "/assets/images/web/inbuzz/1.png" | relative_url }}' alt='relative' width="100%">
 
-<img src='{{ "/assets/images/web/inbuzz/2.jpg" | relative_url }}' alt='relative' width="70%">
+<img src='{{ "/assets/images/web/inbuzz/2.png" | relative_url }}' alt='relative' width="100%">
+
+<img src='{{ "/assets/images/web/inbuzz/3.png" | relative_url }}' alt='relative' width="100%">
+
+<img src='{{ "/assets/images/web/inbuzz/4.png" | relative_url }}' alt='relative' width="100%">
+
+### 모바일
+<img src='{{ "/assets/images/web/inbuzz/m1.png" | relative_url }}' alt='relative' width="30%" style="vertical-align: top; margin-right: 3%">
+<img src='{{ "/assets/images/web/inbuzz/m2.png" | relative_url }}' alt='relative' width="30%" style="vertical-align: top; margin-right: 3%">
+<img src='{{ "/assets/images/web/inbuzz/m3.png" | relative_url }}' alt='relative' width="30%" style="vertical-align: top">

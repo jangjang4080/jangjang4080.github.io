@@ -20,14 +20,14 @@ Android
 
 ---
 
-## 홈페이지
-[https://inbuzz.io](https://inbuzz.io)  
+## 서비스 소개
+<div style="display: flex; gap: 2%;">
+<iframe width="49%" height="250" src="https://www.youtube.com/embed/sZLjn-lM820?list=PLK4uXsm1p7XSNPoz8j3i_VXh1X0yb3KwZ" frameborder="0" allowfullscreen></iframe>
+<iframe width="49%" height="250" src="https://www.youtube.com/embed/femiyb6l3jQ?list=PLK4uXsm1p7XQ7uGFpZIcKUXHGNUKzQCPM" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ## 스토어
 * [구글 플레이 스토어](https://play.google.com/store/apps/details?id=com.twowhy.inbuzz)
-
-## 영상
-* [유튜브 채널](https://www.youtube.com/channel/UCeLNWlj8xMmgV435yJSAT4w)  
 
 ## 실행 화면
 <img src='{{ "/assets/images/app/inbuzz/1.jpg" | relative_url }}' alt='relative' width="40%">

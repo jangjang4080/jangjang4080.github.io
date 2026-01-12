@@ -31,11 +31,21 @@ NestJS, MongoDB, TypeScript, Python, Unity, C#
 iOS, Android  
 
 ### 담당 작업
-* API 서버 개발
-* AI 서버 개발
-* 유니티 앱 개발
+- API 서버 개발
+- AI 서버 개발
+- 유니티 앱 개발
 
 ---
+
+## 서비스 소개
+<div style="display: flex; gap: 2%;">
+<iframe width="49%" height="250" src="https://www.youtube.com/embed/HCJGJ69yLA0" frameborder="0" allowfullscreen></iframe>
+<iframe width="49%" height="250" src="https://www.youtube.com/embed/NCM353G3SKY" frameborder="0" allowfullscreen></iframe>
+</div>
+
+## 스토어
+- [구글 플레이 스토어](https://play.google.com/store/apps/details?id=com.GemgemTherapeutics.gemgemAR&hl=ko)
+- [애플 앱 스토어](https://apps.apple.com/kr/app/%EC%9E%BC%EC%9E%BC400-%ED%95%91%ED%81%AC%ED%90%81%EA%B3%BC-%EC%9E%BC%EC%9E%BC%ED%94%84%EB%A0%8C%EC%A6%88/id6475764223)
 
 ## 실행 화면
 <img src='{{ "/assets/images/app/gemgem400/2.jpg" | relative_url }}' alt='relative' width="70%">

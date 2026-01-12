@@ -24,10 +24,13 @@ Web Desktop, Mobile
 * 웹 프론트엔드 개발
 * 어드민 툴 개발
 
-### 웹페이지
-[https://koreanmate.net](https://koreanmate.net)  
-
 ---
+
+## 서비스 소개
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SUusVwAw-1w" frameborder="0" allowfullscreen></iframe>
+
+## 웹 페이지
+[https://koreanmate.net](https://koreanmate.net)  
 
 ## 실행 화면
 <img src='{{ "/assets/images/web/koreanmate/1.png" | relative_url }}' alt='relative' width="100%">

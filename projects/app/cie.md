@@ -17,16 +17,15 @@ Android, iOS
 
 ---
 
-## 홈페이지
+## 서비스 소개
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YmrEzFZdsFw?list=PL0Mp7mQzuW0SAVjTCaFTKa6mqWGS0WtD8" frameborder="0" allowfullscreen></iframe>
+
+## 웹 페이지
 [http://catchitplay.com/](http://catchitplay.com/)  
 
 ## 스토어
 * [구글 플레이 스토어](https://play.google.com/store/apps/details?id=com.nxc.catchitenglishbasic.google&hl=ko)
 * [애플 앱 스토어](https://apps.apple.com/kr/app/%EC%BA%90%EC%B9%98%EC%9E%87-%EC%9E%89%EA%B8%80%EB%A6%AC%EC%8B%9C/id881322806)
-
-## 영상
-* [유튜브 채널](https://www.youtube.com/channel/UC1WiTJlJXj7InDxycoUa3Cg)  
-* [앱 소개](https://www.youtube.com/watch?v=z2AP5nprDWM)
 
 ## 실행 화면
 <img src='{{ "/assets/images/app/cie/1.jpg" | relative_url }}' alt='relative' width="30%">
