@@ -25,15 +25,15 @@ Android, iOS
 
 ## 스토어
 * [구글 플레이 스토어](https://play.google.com/store/apps/details?id=com.nxc.catchitenglishbasic.google&hl=ko)
-* [애플 앱 스토어](https://apps.apple.com/kr/app/%EC%BA%90%EC%B9%98%EC%9E%87-%EC%9E%89%EA%B8%80%EB%A6%AC%EC%8B%9C/id881322806)
+* [애플 앱 스토어](https://apps.apple.com/app/id881322806)
 
 ## 실행 화면
-<img src='{{ "/assets/images/app/cie/1.jpg" | relative_url }}' alt='relative' width="30%">
-<img src='{{ "/assets/images/app/cie/2.jpg" | relative_url }}' alt='relative' width="30%">
-<img src='{{ "/assets/images/app/cie/3.jpg" | relative_url }}' alt='relative' width="30%">
-
-<img src='{{ "/assets/images/app/cie/4.jpg" | relative_url }}' alt='relative' width="30%">
-<img src='{{ "/assets/images/app/cie/5.jpg" | relative_url }}' alt='relative' width="30%">
-<img src='{{ "/assets/images/app/cie/6.jpg" | relative_url }}' alt='relative' width="30%">
-
-<img src='{{ "/assets/images/app/cie/7.jpg" | relative_url }}' alt='relative' width="30%">
+<div class="screenshot-grid-triple" markdown="0">
+  <img src='{{ "/assets/images/app/cie/1.jpg" | relative_url }}' alt='실행 화면 1'>
+  <img src='{{ "/assets/images/app/cie/2.jpg" | relative_url }}' alt='실행 화면 2'>
+  <img src='{{ "/assets/images/app/cie/3.jpg" | relative_url }}' alt='실행 화면 3'>
+  <img src='{{ "/assets/images/app/cie/4.jpg" | relative_url }}' alt='실행 화면 4'>
+  <img src='{{ "/assets/images/app/cie/5.jpg" | relative_url }}' alt='실행 화면 5'>
+  <img src='{{ "/assets/images/app/cie/6.jpg" | relative_url }}' alt='실행 화면 6'>
+  <img src='{{ "/assets/images/app/cie/7.jpg" | relative_url }}' alt='실행 화면 7'>
+</div>

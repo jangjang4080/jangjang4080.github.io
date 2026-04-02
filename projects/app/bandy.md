@@ -21,12 +21,12 @@ iOS, Android
 ---
 
 ## 실행 화면
-<img src='{{ "/assets/images/app/bandy/1.png" | relative_url }}' alt='relative' width="40%">
-<img src='{{ "/assets/images/app/bandy/2.png" | relative_url }}' alt='relative' width="40%">
-
-<img src='{{ "/assets/images/app/bandy/3.png" | relative_url }}' alt='relative' width="40%">
-<img src='{{ "/assets/images/app/bandy/4.png" | relative_url }}' alt='relative' width="40%">
-
-<img src='{{ "/assets/images/app/bandy/5.png" | relative_url }}' alt='relative' width="40%">
-<img src='{{ "/assets/images/app/bandy/6.png" | relative_url }}' alt='relative' width="40%">
+<div class="screenshot-grid" markdown="0">
+  <img src='{{ "/assets/images/app/bandy/1.png" | relative_url }}' alt='실행 화면 1'>
+  <img src='{{ "/assets/images/app/bandy/2.png" | relative_url }}' alt='실행 화면 2'>
+  <img src='{{ "/assets/images/app/bandy/3.png" | relative_url }}' alt='실행 화면 3'>
+  <img src='{{ "/assets/images/app/bandy/4.png" | relative_url }}' alt='실행 화면 4'>
+  <img src='{{ "/assets/images/app/bandy/5.png" | relative_url }}' alt='실행 화면 5'>
+  <img src='{{ "/assets/images/app/bandy/6.png" | relative_url }}' alt='실행 화면 6'>
+</div>
 

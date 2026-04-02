@@ -15,10 +15,14 @@ Web, iOS
 
 ### 웹플레이어 버전
 크롬 브라우저  
-![image](/assets/images/games/unity_golf/1.png)
+<div class="screenshot-grid-wide" markdown="0">
+  <img src='/assets/images/games/unity_golf/1.png' alt='웹플레이어'>
+</div>
 
 ### 모바일 버전
 아이패드 1  
-![image](/assets/images/games/unity_golf/2.png)
-![image](/assets/images/games/unity_golf/3.png)
-![image](/assets/images/games/unity_golf/4.png)
+<div class="screenshot-grid-wide" markdown="0">
+  <img src='/assets/images/games/unity_golf/2.png' alt='모바일 1'>
+  <img src='/assets/images/games/unity_golf/3.png' alt='모바일 2'>
+  <img src='/assets/images/games/unity_golf/4.png' alt='모바일 3'>
+</div>

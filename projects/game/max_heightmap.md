@@ -39,7 +39,9 @@ Windows
 
 ## 과정
 
-![image](/assets/images/games/max_heightmap/gmp_look.png)
+<div class="screenshot-grid-wide" markdown="0">
+  <img src='/assets/images/games/max_heightmap/gmp_look.png' alt='GMP 화면'>
+</div>
 
 1. 해당 버전의 블렌더를 설치하고, addon으로 gmp를 설치한다.
 2. Golf Mesh Preprocessor라는 addon이 생기는데 A의 CC Folder 라는 항목에 파일 경로를 설정할 수 있는 버튼이 있다. 이 버튼을 눌러 DEM, DSM, ORTHO_Tiles 폴더들이 있는 경로를 지정해주자. 주의점 – 경로가 제대로 설정되지 않는 경우 Accept, Relative Path라는 체크 박스의 체크를 해제해주자.
@@ -54,7 +56,9 @@ Windows
 
 ## 3D Max – 하이트맵(Displace map) 생성
 
-![image](/assets/images/games/max_heightmap/GolfHoleEditor.png)
+<div class="screenshot-grid-wide" markdown="0">
+  <img src='/assets/images/games/max_heightmap/GolfHoleEditor.png' alt='Golf Hole Editor'>
+</div>
 
 1. A - 블렌더를 통해 생성된 ini 파일이 들어있는 프로젝트 폴더를 선택해준다.
 2. B – 전체 CC를 생성해준다.

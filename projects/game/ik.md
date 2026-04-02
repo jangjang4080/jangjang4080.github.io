@@ -21,8 +21,10 @@ Windows
 ---
 
 ## 실행 화면
-![image](/assets/images/games/ik/1.jpg)
-![image](/assets/images/games/ik/2.jpg)
+<div class="screenshot-grid-wide" markdown="0">
+  <img src='/assets/images/games/ik/1.jpg' alt='실행 화면 1'>
+  <img src='/assets/images/games/ik/2.jpg' alt='실행 화면 2'>
+</div>
 
 ## 논문
 [역운동학 모듈을 이용한 3D 애니메이션에 관한 연구(A Study on 3D Animation Using Inverse Kinematics Modules)](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE01616414)

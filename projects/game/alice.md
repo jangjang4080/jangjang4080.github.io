@@ -15,11 +15,13 @@ iOS
 디바이스 : 아이팟 터치2  
 
 ### 스토리 모드
-![image](/assets/images/games/alice/1.png)
-
-![image](/assets/images/games/alice/2.png)
-
-![image](/assets/images/games/alice/3.png)
+<div class="screenshot-grid-wide" markdown="0">
+  <img src='/assets/images/games/alice/1.png' alt='스토리 모드 1'>
+  <img src='/assets/images/games/alice/2.png' alt='스토리 모드 2'>
+  <img src='/assets/images/games/alice/3.png' alt='스토리 모드 3'>
+</div>
 
 ### 커스텀 모드
-![image](/assets/images/games/alice/4.png)
+<div class="screenshot-grid-wide" markdown="0">
+  <img src='/assets/images/games/alice/4.png' alt='커스텀 모드'>
+</div>

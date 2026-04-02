@@ -17,4 +17,6 @@ Mac
 ---
 
 ## ROC 결과
-![image](/assets/images/ml/6.png)
+<div class="screenshot-grid-wide" markdown="0">
+  <img src='/assets/images/ml/6.png' alt='ROC 결과'>
+</div>

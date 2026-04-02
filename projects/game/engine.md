@@ -18,13 +18,19 @@ Windows
 ## 지원한 게임 프로젝트들
 
 ### 콜 오브 카오스(Call Of Chaos)
-![image](/assets/images/games/engine/1.png)
-![image](/assets/images/games/engine/2.png)
+<div class="screenshot-grid-wide" markdown="0">
+  <img src='/assets/images/games/engine/1.png' alt='콜 오브 카오스 1'>
+  <img src='/assets/images/games/engine/2.png' alt='콜 오브 카오스 2'>
+</div>
 
 ### 소울 마스터(Soul Master)
-![image](/assets/images/games/engine/3.png)
-![image](/assets/images/games/engine/4.png)
-![image](/assets/images/games/engine/5.png)
+<div class="screenshot-grid-wide" markdown="0">
+  <img src='/assets/images/games/engine/3.png' alt='소울 마스터 1'>
+  <img src='/assets/images/games/engine/4.png' alt='소울 마스터 2'>
+  <img src='/assets/images/games/engine/5.png' alt='소울 마스터 3'>
+</div>
 
 ### 티업(T-Up)
-![image](/assets/images/games/engine/6.png)
+<div class="screenshot-grid-wide" markdown="0">
+  <img src='/assets/images/games/engine/6.png' alt='티업'>
+</div>

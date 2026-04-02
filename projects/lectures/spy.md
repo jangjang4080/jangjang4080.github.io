@@ -11,7 +11,9 @@ title: 유니티 초급 강의 - 고등학생 동아리
 
 ---
 
-![image](/assets/images/lectures/spy/IMG_2768.jpg)
-![image](/assets/images/lectures/spy/IMG_2769.jpg)
-![image](/assets/images/lectures/spy/IMG_2771.jpg)
-![image](/assets/images/lectures/spy/IMG_2776.jpg)
+<div class="screenshot-grid-wide" markdown="0">
+  <img src='/assets/images/lectures/spy/IMG_2768.jpg' alt='강의 사진 1'>
+  <img src='/assets/images/lectures/spy/IMG_2769.jpg' alt='강의 사진 2'>
+  <img src='/assets/images/lectures/spy/IMG_2771.jpg' alt='강의 사진 3'>
+  <img src='/assets/images/lectures/spy/IMG_2776.jpg' alt='강의 사진 4'>
+</div>

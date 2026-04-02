@@ -1,0 +1,52 @@
+@use "sass:color";
+@use "sass:math";
+
+// Google Fonts
+@import url(//fonts.googleapis.com/css?family=Roboto+Slab:400,700,300|Roboto:400,700,300|Open+Sans:300italic,400italic,600italic,700italic,800italic,400,800,700,600,300);
+
+$base-font-family: "Open Sans", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif !default;
+$base-font-size:   16px !default;
+$base-font-weight: 400 !default;
+$small-font-size:  $base-font-size * 0.875 !default;
+$base-line-height: 1.8 !default;
+
+$spacing-unit:     30px !default;
+
+$text-color:       #515151 !default;
+$background-color: #fdfdfd !default;
+$brand-color:      #2980b9 !default;
+
+$grey-color:       #828282 !default;
+$grey-color-light: color.adjust($grey-color, $lightness: 40%) !default;
+$grey-color-dark:  color.adjust($grey-color, $lightness: -25%) !default;
+$orange-color:     #f66a0a !default;
+$table-text-align: left !default;
+
+// Width of the content area
+$content-width:    860px !default;
+
+$on-palm:          600px !default;
+$on-laptop:        860px !default;
+
+$on-medium:        $on-palm !default;
+$on-large:         $on-laptop !default;
+
+%vertical-rhythm {
+  margin-bottom: math.div($spacing-unit, 2);
+}
+
+%clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+@mixin media-query($device) {
+  @media screen and (max-width: $device) {
+    @content;
+  }
+}
+
+@mixin relative-font-size($ratio) {
+  font-size: $base-font-size * $ratio;
+}

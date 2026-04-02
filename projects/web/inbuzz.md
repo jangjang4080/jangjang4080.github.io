@@ -30,15 +30,16 @@ Android
 
 ## 실행 화면
 ### 데스크톱
-<img src='{{ "/assets/images/web/inbuzz/1.png" | relative_url }}' alt='relative' width="100%">
-
-<img src='{{ "/assets/images/web/inbuzz/2.png" | relative_url }}' alt='relative' width="100%">
-
-<img src='{{ "/assets/images/web/inbuzz/3.png" | relative_url }}' alt='relative' width="100%">
-
-<img src='{{ "/assets/images/web/inbuzz/4.png" | relative_url }}' alt='relative' width="100%">
+<div class="screenshot-grid-wide" markdown="0">
+  <img src='{{ "/assets/images/web/inbuzz/1.png" | relative_url }}' alt='데스크톱 화면 1'>
+  <img src='{{ "/assets/images/web/inbuzz/2.png" | relative_url }}' alt='데스크톱 화면 2'>
+  <img src='{{ "/assets/images/web/inbuzz/3.png" | relative_url }}' alt='데스크톱 화면 3'>
+  <img src='{{ "/assets/images/web/inbuzz/4.png" | relative_url }}' alt='데스크톱 화면 4'>
+</div>
 
 ### 모바일
-<img src='{{ "/assets/images/web/inbuzz/m1.png" | relative_url }}' alt='relative' width="30%" style="vertical-align: top; margin-right: 3%">
-<img src='{{ "/assets/images/web/inbuzz/m2.png" | relative_url }}' alt='relative' width="30%" style="vertical-align: top; margin-right: 3%">
-<img src='{{ "/assets/images/web/inbuzz/m3.png" | relative_url }}' alt='relative' width="30%" style="vertical-align: top">
+<div class="screenshot-grid" markdown="0">
+  <img src='{{ "/assets/images/web/inbuzz/m1.png" | relative_url }}' alt='모바일 화면 1'>
+  <img src='{{ "/assets/images/web/inbuzz/m2.png" | relative_url }}' alt='모바일 화면 2'>
+  <img src='{{ "/assets/images/web/inbuzz/m3.png" | relative_url }}' alt='모바일 화면 3'>
+</div>

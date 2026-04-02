@@ -12,4 +12,6 @@ Windows, iOS
 ---
 
 ## 실행 화면
-![image](/assets/images/games/unity_cc/1.png)
+<div class="screenshot-grid-wide" markdown="0">
+  <img src='/assets/images/games/unity_cc/1.png' alt='실행 화면'>
+</div>

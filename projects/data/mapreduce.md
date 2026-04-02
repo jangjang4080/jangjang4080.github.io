@@ -22,7 +22,9 @@ Linux
 
 ## 3. 하둡 머신에서 맵리듀스 실행
 * 2번에서 준비한 jar 파일을 하둡 머신에 전송한 후 yarn 명령어를 이용해 맵리듀스 작업을 실행  
-![image](/assets/images/data/1.png)
+<div class="screenshot-grid-wide" markdown="0">
+  <img src='/assets/images/data/1.png' alt='맵리듀스 실행'>
+</div>
 * MapReduce 작업을 모두 수행하고 JobHistory에서 확인
 
 ## 4. DB 확인

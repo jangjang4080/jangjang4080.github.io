@@ -30,12 +30,12 @@ Android
 * [구글 플레이 스토어](https://play.google.com/store/apps/details?id=com.twowhy.inbuzz)
 
 ## 실행 화면
-<img src='{{ "/assets/images/app/inbuzz/1.jpg" | relative_url }}' alt='relative' width="40%">
-<img src='{{ "/assets/images/app/inbuzz/2.jpg" | relative_url }}' alt='relative' width="40%">
-
-<img src='{{ "/assets/images/app/inbuzz/3.jpg" | relative_url }}' alt='relative' width="40%">
-<img src='{{ "/assets/images/app/inbuzz/4.jpg" | relative_url }}' alt='relative' width="40%">
-
-<img src='{{ "/assets/images/app/inbuzz/5.jpg" | relative_url }}' alt='relative' width="40%">
-<img src='{{ "/assets/images/app/inbuzz/6.jpg" | relative_url }}' alt='relative' width="40%">
+<div class="screenshot-grid" markdown="0">
+  <img src='{{ "/assets/images/app/inbuzz/1.jpg" | relative_url }}' alt='실행 화면 1'>
+  <img src='{{ "/assets/images/app/inbuzz/2.jpg" | relative_url }}' alt='실행 화면 2'>
+  <img src='{{ "/assets/images/app/inbuzz/3.jpg" | relative_url }}' alt='실행 화면 3'>
+  <img src='{{ "/assets/images/app/inbuzz/4.jpg" | relative_url }}' alt='실행 화면 4'>
+  <img src='{{ "/assets/images/app/inbuzz/5.jpg" | relative_url }}' alt='실행 화면 5'>
+  <img src='{{ "/assets/images/app/inbuzz/6.jpg" | relative_url }}' alt='실행 화면 6'>
+</div>
 

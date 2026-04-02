@@ -28,19 +28,15 @@ Android, iOS
 
 ## 스토어
 * [구글 플레이 스토어](https://play.google.com/store/apps/details?id=com.kineticlab.klab_dancev2)
-* [애플 앱 스토어](https://apps.apple.com/kr/app/%EC%A6%90%EB%A7%81/id1509129159)
+* [애플 앱 스토어](https://apps.apple.com/kr/app/id1509129159)
 
 ## 실행 화면
-<img src='{{ "/assets/images/app/zling/1.jpg" | relative_url }}' alt='relative' width="70%">
-
-<img src='{{ "/assets/images/app/zling/2.jpg" | relative_url }}' alt='relative' width="70%">
-
-<img src='{{ "/assets/images/app/zling/3.jpg" | relative_url }}' alt='relative' width="70%">
-
-<img src='{{ "/assets/images/app/zling/4.jpg" | relative_url }}' alt='relative' width="70%">
-
-<img src='{{ "/assets/images/app/zling/5.jpg" | relative_url }}' alt='relative' width="70%">
-
-<img src='{{ "/assets/images/app/zling/6.jpg" | relative_url }}' alt='relative' width="70%">
-
-<img src='{{ "/assets/images/app/zling/7.jpg" | relative_url }}' alt='relative' width="70%">
+<div class="screenshot-grid-wide" markdown="0">
+  <img src='{{ "/assets/images/app/zling/1.jpg" | relative_url }}' alt='실행 화면 1'>
+  <img src='{{ "/assets/images/app/zling/2.jpg" | relative_url }}' alt='실행 화면 2'>
+  <img src='{{ "/assets/images/app/zling/3.jpg" | relative_url }}' alt='실행 화면 3'>
+  <img src='{{ "/assets/images/app/zling/4.jpg" | relative_url }}' alt='실행 화면 4'>
+  <img src='{{ "/assets/images/app/zling/5.jpg" | relative_url }}' alt='실행 화면 5'>
+  <img src='{{ "/assets/images/app/zling/6.jpg" | relative_url }}' alt='실행 화면 6'>
+  <img src='{{ "/assets/images/app/zling/7.jpg" | relative_url }}' alt='실행 화면 7'>
+</div>

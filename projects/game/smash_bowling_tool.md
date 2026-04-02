@@ -16,20 +16,28 @@ Windows
 ---
 
 ### 충돌 시뮬레이션 툴
-![image](/assets/images/games/smash_bowling_tool/1.jpeg)
+<div class="screenshot-grid-wide" markdown="0">
+  <img src='/assets/images/games/smash_bowling_tool/1.jpeg' alt='충돌 시뮬레이션 툴'>
+</div>
 
 ### 수치값들을 조정해 볼링공 굴리기
 좌측 창의 power, spin, gravity, weight 등의 수치들을 조정해서 시뮬레이션할 수 있습니다.  
-![image](/assets/images/games/smash_bowling_tool/2.jpeg)
-![image](/assets/images/games/smash_bowling_tool/3.jpeg)
-![image](/assets/images/games/smash_bowling_tool/4.jpeg)
+<div class="screenshot-grid-wide" markdown="0">
+  <img src='/assets/images/games/smash_bowling_tool/2.jpeg' alt='볼링공 굴리기 1'>
+  <img src='/assets/images/games/smash_bowling_tool/3.jpeg' alt='볼링공 굴리기 2'>
+  <img src='/assets/images/games/smash_bowling_tool/4.jpeg' alt='볼링공 굴리기 3'>
+</div>
 
 gravity 값을 0보다 크게 줘서 핀들이 떨어지지 않고 하늘로 치솟도록 했습니다.  
-![image](/assets/images/games/smash_bowling_tool/5.jpeg)
+<div class="screenshot-grid-wide" markdown="0">
+  <img src='/assets/images/games/smash_bowling_tool/5.jpeg' alt='gravity 조정'>
+</div>
 
 ---
 
 ### 카메라 연출 툴
-![image](/assets/images/games/smash_bowling_tool/6.jpeg)
-![image](/assets/images/games/smash_bowling_tool/7.jpeg)
-![image](/assets/images/games/smash_bowling_tool/8.jpeg)
+<div class="screenshot-grid-wide" markdown="0">
+  <img src='/assets/images/games/smash_bowling_tool/6.jpeg' alt='카메라 연출 1'>
+  <img src='/assets/images/games/smash_bowling_tool/7.jpeg' alt='카메라 연출 2'>
+  <img src='/assets/images/games/smash_bowling_tool/8.jpeg' alt='카메라 연출 3'>
+</div>

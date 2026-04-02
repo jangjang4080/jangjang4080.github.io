@@ -12,4 +12,6 @@ Windows
 ---
 
 ## 툴 화면
-![image](/assets/images/games/gopets_world_editor/1.png)
+<div class="screenshot-grid-wide" markdown="0">
+  <img src='/assets/images/games/gopets_world_editor/1.png' alt='툴 화면'>
+</div>

@@ -20,11 +20,12 @@ Android, iOS
 
 ## 스토어
 * [구글 플레이 스토어](https://play.google.com/store/apps/details?id=com.chungdahm.ctp)
-* [애플 앱 스토어](https://apps.apple.com/kr/app/%EC%B2%AD%EB%8B%B4%EC%8A%A4%EB%A7%88%ED%8A%B8%EB%A7%A4%EB%8B%88%EC%A0%80/id1488725714)
+* [애플 앱 스토어](https://apps.apple.com/kr/app/id1488725714)
 
 ## 실행 화면
-<img src='{{ "/assets/images/app/smartmanager/1.png" | relative_url }}' alt='relative' width="40%">
-<img src='{{ "/assets/images/app/smartmanager/2.png" | relative_url }}' alt='relative' width="40%">
-
-<img src='{{ "/assets/images/app/smartmanager/3.png" | relative_url }}' alt='relative' width="40%">
-<img src='{{ "/assets/images/app/smartmanager/4.png" | relative_url }}' alt='relative' width="40%">
+<div class="screenshot-grid" markdown="0">
+  <img src='{{ "/assets/images/app/smartmanager/1.png" | relative_url }}' alt='실행 화면 1'>
+  <img src='{{ "/assets/images/app/smartmanager/2.png" | relative_url }}' alt='실행 화면 2'>
+  <img src='{{ "/assets/images/app/smartmanager/3.png" | relative_url }}' alt='실행 화면 3'>
+  <img src='{{ "/assets/images/app/smartmanager/4.png" | relative_url }}' alt='실행 화면 4'>
+</div>

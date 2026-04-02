@@ -48,18 +48,15 @@ iOS, Android
 
 ## 스토어
 - [구글 플레이 스토어](https://play.google.com/store/apps/details?id=com.GemgemTherapeutics.gemgemAR&hl=ko)
-- [애플 앱 스토어](https://apps.apple.com/kr/app/%EC%9E%BC%EC%9E%BC400-%ED%95%91%ED%81%AC%ED%90%81%EA%B3%BC-%EC%9E%BC%EC%9E%BC%ED%94%84%EB%A0%8C%EC%A6%88/id6475764223)
+- [애플 앱 스토어](https://apps.apple.com/kr/app/id6475764223)
 
 ## 실행 화면
-<img src='{{ "/assets/images/app/gemgem400/2.jpg" | relative_url }}' alt='relative' width="70%">
-
-<img src='{{ "/assets/images/app/gemgem400/3.jpg" | relative_url }}' alt='relative' width="70%">
-
-<img src='{{ "/assets/images/app/gemgem400/4.jpg" | relative_url }}' alt='relative' width="70%">
-
-<img src='{{ "/assets/images/app/gemgem400/5.jpg" | relative_url }}' alt='relative' width="70%">
-
-<img src='{{ "/assets/images/app/gemgem400/6.jpg" | relative_url }}' alt='relative' width="70%">
-
-<img src='{{ "/assets/images/app/gemgem400/7.jpg" | relative_url }}' alt='relative' width="70%">
+<div class="screenshot-grid-wide" markdown="0">
+  <img src='{{ "/assets/images/app/gemgem400/2.jpg" | relative_url }}' alt='실행 화면 2'>
+  <img src='{{ "/assets/images/app/gemgem400/3.jpg" | relative_url }}' alt='실행 화면 3'>
+  <img src='{{ "/assets/images/app/gemgem400/4.jpg" | relative_url }}' alt='실행 화면 4'>
+  <img src='{{ "/assets/images/app/gemgem400/5.jpg" | relative_url }}' alt='실행 화면 5'>
+  <img src='{{ "/assets/images/app/gemgem400/6.jpg" | relative_url }}' alt='실행 화면 6'>
+  <img src='{{ "/assets/images/app/gemgem400/7.jpg" | relative_url }}' alt='실행 화면 7'>
+</div>
 
