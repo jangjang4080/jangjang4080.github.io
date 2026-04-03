@@ -299,3 +299,55 @@
     }
   }
 }
+
+/**
+ * Screenshot grid
+ */
+.screenshot-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 80px 24px;
+  margin: 1em 0;
+
+  img {
+    width: 100%;
+    border-radius: 8px;
+  }
+
+  @include media-query($on-palm) {
+    grid-template-columns: 1fr;
+  }
+}
+
+.screenshot-grid-triple {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px 4px;
+  margin: 1em 0;
+
+  img {
+    width: 100%;
+    border-radius: 8px;
+  }
+
+  @include media-query($on-palm) {
+    grid-template-columns: 1fr;
+  }
+}
+
+.screenshot-grid-wide {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 24px;
+  margin: 1em 0;
+  max-width: 80%;
+
+  img {
+    width: 100%;
+    border-radius: 8px;
+  }
+
+  @include media-query($on-palm) {
+    max-width: 100%;
+  }
+}
