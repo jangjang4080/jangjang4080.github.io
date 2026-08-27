@@ -1,4 +1,5 @@
 ### 웹
+* [ERP 관리자 웹 - 교육 출판 B2B 주문·유통 플랫폼](/projects/web/cedu-erp.html)
 * [Korean Mate - Learning Korean with Stories](/projects/web/koreanmate.html)
 * [인버즈 짠견적 - 혁신적인 인테리어 솔루션](/projects/web/inbuzz.html)  
 
